@@ -1,0 +1,268 @@
+# depslib dependency file v1.0
+1621269522 source:c:\users\simon\onedrive\desktop\lab\lab9-10\entitate.cpp
+	"entitate.h"
+	<cstring>
+
+1621269522 c:\users\simon\onedrive\desktop\lab\lab9-10\entitate.h
+	<iostream>
+
+1621501528 source:c:\users\simon\onedrive\desktop\lab\lab9-10\main.cpp
+	<iostream>
+	"repo.h"
+	"entitate.h"
+	"service.h"
+	"ui.h"
+	"tests.h"
+	"repo_file.h"
+	"validator.h"
+
+1620552473 c:\users\simon\onedrive\desktop\lab\lab9-10\repo.h
+	"entitate.h"
+
+1621268206 c:\users\simon\onedrive\desktop\lab\lab9-10\service.h
+	"repo.h"
+	"repo_file.h"
+
+1620674314 c:\users\simon\onedrive\desktop\lab\lab9-10\repo_file.h
+	"entitate.h"
+	"repo.h"
+	<fstream>
+	<cstring>
+
+1621500718 c:\users\simon\onedrive\desktop\lab\lab9-10\ui.h
+	"tests.h"
+	"service.h"
+	"validator.h"
+
+1620674489 c:\users\simon\onedrive\desktop\lab\lab9-10\tests.h
+	"service.h"
+	"repo.h"
+
+1620552473 source:c:\users\simon\onedrive\desktop\lab\lab9-10\repo.cpp
+	"service.h"
+	"repo.h"
+
+1621500925 source:c:\users\simon\onedrive\desktop\lab\lab9-10\service.cpp
+	<iostream>
+	"service.h"
+	"repo.h"
+	"repo_file.h"
+	"entitate.h"
+	<cstring>
+
+1620674736 source:c:\users\simon\onedrive\desktop\lab\lab9-10\tests.cpp
+	<iostream>
+	<assert.h>
+	"tests.h"
+	"repo.h"
+	"entitate.h"
+	"service.h"
+
+1621871536 source:c:\users\simon\onedrive\desktop\lab\lab9-10\ui.cpp
+	"tests.h"
+	"ui.h"
+	"validator.h"
+	<iostream>
+
+1621268771 source:c:\users\simon\onedrive\desktop\lab\lab9-10\repo_file.cpp
+	"repo_file.h"
+	<cstring>
+	<fstream>
+
+1621501864 c:\users\simon\onedrive\desktop\lab\lab9-10\validator.h
+	"entitate.h"
+	"exceptie.h"
+
+1621871536 source:c:\users\simon\onedrive\desktop\lab\lab9-10\validator.cpp
+	<iostream>
+	"validator.h"
+	"entitate.h"
+	"exceptie.h"
+
+1621500585 source:c:\users\simon\onedrive\desktop\lab\lab9-10\exception.cpp
+	<iostream>
+	"exception.h"
+
+1621500464 c:\users\simon\onedrive\desktop\lab\lab9-10\exception.h
+
+1621501697 c:\users\simon\onedrive\desktop\lab\lab9-10\exceptie.h
+	<iostream>
+
+1621870646 source:c:\users\simon\onedrive\desktop\lab\lab9-10\exceptie.cpp
+	<iostream>
+	"exceptie.h"
+
+1621265922 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\entitate.cpp
+	"entitate.h"
+	<cstring>
+
+1621265922 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\entitate.h
+	<iostream>
+
+1621867046 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\exceptie.cpp
+	<iostream>
+	"exceptie.h"
+
+1621498097 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\exceptie.h
+	<iostream>
+
+1621497928 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\main.cpp
+	<iostream>
+	"repo.h"
+	"entitate.h"
+	"service.h"
+	"ui.h"
+	"tests.h"
+	"repo_file.h"
+	"validator.h"
+
+1620548873 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\repo.h
+	"entitate.h"
+
+1621264606 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\service.h
+	"repo.h"
+	"repo_file.h"
+
+1620670714 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\repo_file.h
+	"entitate.h"
+	"repo.h"
+	<fstream>
+	<cstring>
+
+1621497118 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\ui.h
+	"tests.h"
+	"service.h"
+	"validator.h"
+
+1620670889 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\tests.h
+	"service.h"
+	"repo.h"
+
+1621498264 c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\validator.h
+	"entitate.h"
+	"exceptie.h"
+
+1620548873 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\repo.cpp
+	"service.h"
+	"repo.h"
+
+1621265171 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\repo_file.cpp
+	"repo_file.h"
+	<cstring>
+	<fstream>
+
+1621497325 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\service.cpp
+	<iostream>
+	"service.h"
+	"repo.h"
+	"repo_file.h"
+	"entitate.h"
+	<cstring>
+
+1620671136 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\tests.cpp
+	<iostream>
+	<assert.h>
+	"tests.h"
+	"repo.h"
+	"entitate.h"
+	"service.h"
+
+1621867936 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\ui.cpp
+	"tests.h"
+	"ui.h"
+	"validator.h"
+	<iostream>
+
+1621867936 source:c:\users\simon\onedrive\desktop\facultate\sem 2\lab oop c++\lab9-10\validator.cpp
+	<iostream>
+	"validator.h"
+	"entitate.h"
+	"exceptie.h"
+
+1621265922 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\entitate.cpp
+	"entitate.h"
+	<cstring>
+
+1621265922 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\entitate.h
+	<iostream>
+
+1621867046 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\exceptie.cpp
+	<iostream>
+	"exceptie.h"
+
+1621498097 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\exceptie.h
+	<iostream>
+
+1647100431 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\main.cpp
+	<iostream>
+	"repo.h"
+	"entitate.h"
+	"service.h"
+	"ui.h"
+	"tests.h"
+	"repo_file.h"
+	"validator.h"
+
+1620548873 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\repo.h
+	"entitate.h"
+
+1621264606 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\service.h
+	"repo.h"
+	"repo_file.h"
+
+1620670714 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\repo_file.h
+	"entitate.h"
+	"repo.h"
+	<fstream>
+	<cstring>
+
+1621497118 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\ui.h
+	"tests.h"
+	"service.h"
+	"validator.h"
+
+1620670889 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\tests.h
+	"service.h"
+	"repo.h"
+
+1621498264 c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\validator.h
+	"entitate.h"
+	"exceptie.h"
+
+1620548873 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\repo.cpp
+	"service.h"
+	"repo.h"
+
+1621265171 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\repo_file.cpp
+	"repo_file.h"
+	<cstring>
+	<fstream>
+
+1621497325 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\service.cpp
+	<iostream>
+	"service.h"
+	"repo.h"
+	"repo_file.h"
+	"entitate.h"
+	<cstring>
+
+1620671136 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\tests.cpp
+	<iostream>
+	<assert.h>
+	"tests.h"
+	"repo.h"
+	"entitate.h"
+	"service.h"
+
+1621867936 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\ui.cpp
+	"tests.h"
+	"ui.h"
+	"validator.h"
+	<iostream>
+
+1621867936 source:c:\users\simon\onedrive\desktop\facultate\sem2\lab oop c++\lab9-10\validator.cpp
+	<iostream>
+	"validator.h"
+	"entitate.h"
+	"exceptie.h"
+

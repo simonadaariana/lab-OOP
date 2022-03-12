@@ -1,0 +1,14 @@
+#pragma once
+
+
+class Exception {
+public:
+    Exception();
+    ~Exception();
+    void exceptie_pret();
+    void exceptie_cod();
+
+private:
+
+};
+

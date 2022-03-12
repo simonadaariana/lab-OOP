@@ -1,0 +1,22 @@
+#include <iostream>
+#include "exception.h"
+
+using namespace std;
+
+
+Exception::Exception(const Exception &exceptie){
+    this->exceptie = exceptie
+}
+
+void Exception::exceptie_pret(){
+
+    cout << "Pretul trebuie sa fie un numar pozitiv, mai mare ca 0." << endl;
+}
+
+void Exception::exceptie_cod(){
+
+    cout << "Codul trebuie sa fie un numar pozitiv, mai mare ca 0." << endl;
+}
+
+Exception::~Exception(){
+}

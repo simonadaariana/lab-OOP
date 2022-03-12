@@ -1,0 +1,2 @@
+1 brand1 10
+2 brand2 20
